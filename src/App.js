@@ -59,6 +59,16 @@ export class App extends Component {
     }
   }
 
+  onSubmit(){
+    const {provinsi, provinsiId} = this.state
+    if(!provinsi && !provinsiId){
+      alert('kolom wajib diisi')
+      return
+    } else {
+      alert('berhasil')
+    }
+  }
+
   render() {
     return (
       <div className="container mt-4">
@@ -87,7 +97,7 @@ export class App extends Component {
           ))}
         </select>
 
-        <button className="btn btn-sm btn-primary w-100 mt-3">
+        <button className="btn btn-sm btn-primary w-100 mt-3" onClick={()=>this.onSubmit()}>
           Submit
         </button>
       </div>
