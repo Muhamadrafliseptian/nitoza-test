@@ -1,0 +1,37 @@
+{
+    "JAWA BARAT": [
+      "KOTA BANDUNG",
+      "KOTA BOGOR",
+      "KOTA DEPOK",
+      "KOTA BEKASI",
+      "KOTA SUKABUMI"
+    ],
+    "JAWA TENGAH": [
+      "KOTA SEMARANG",
+      "KOTA SURAKARTA",
+      "KOTA MAGELANG",
+      "KOTA PEKALONGAN",
+      "KOTA TEGAL"
+    ],
+    "JAWA TIMUR": [
+      "KOTA SURABAYA",
+      "KOTA MALANG",
+      "KOTA KEDIRI",
+      "KOTA BLITAR",
+      "KOTA PASURUAN"
+    ],
+    "DKI JAKARTA": [
+      "KOTA JAKARTA SELATAN",
+      "KOTA JAKARTA BARAT",
+      "KOTA JAKARTA TIMUR",
+      "KOTA JAKARTA UTARA",
+      "KOTA JAKARTA PUSAT"
+    ],
+    "BANTEN": [
+      "KOTA TANGERANG",
+      "KOTA SERANG",
+      "KOTA CILEGON",
+      "KABUPATEN PANDEGLANG",
+      "KABUPATEN LEBAK"
+    ]
+  }
